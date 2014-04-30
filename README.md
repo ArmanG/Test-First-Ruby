@@ -1,7 +1,7 @@
 Test-First-Ruby
 ===============
 
-Given Various test cases, initialize the appropriate code to pass all the cases.
+Given various test cases, initialize the appropriate code to pass all the cases.
 
 Purpose:
 
